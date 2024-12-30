@@ -10,12 +10,14 @@ Duration:Dec17 to Jan 17
 
 Mentor:Neela Santosh Kumar
 
+
 Overview
 
 The project is a simple calculator application developed in Python.
 It performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 The calculator is designed to handle whole numbers ranging from 0 to 50.
 The code is compatible with Python 2, ensuring broader accessibility.
+
 
 Key Activities
 
@@ -24,11 +26,13 @@ Arithmetic Operations: Based on the operator provided, the application performs 
 Output: The result of the operation is displayed to the user.
 Error Handling: The code includes basic checks for specific operations, particularly for addition with zero.
 
+
 Technology Used
 
 Programming Language: Python (specifically Python 2 for compatibility).
 Input Handling: Utilizes input() for user input, with a fallback to raw_input() for Python 2 compatibility.
 Arithmetic Logic: Conditional statements (if statements) to determine the operation and calculate results.
+
 
 Key Insights
 
