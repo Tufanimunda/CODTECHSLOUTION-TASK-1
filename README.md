@@ -53,6 +53,7 @@ Email Notifications: Notify users about due dates and overdue items.
 
 
 
-
+OUTPUT
+![WhatsApp Image 2024-12-30 at 22 13 13_6c473e86](https://github.com/user-attachments/assets/61820f83-f2e8-48bb-8c89-b91128357ab1)
 
 
